@@ -3,3 +3,4 @@ Second line in file.txt
 Third line in file.txt
 new line
 second new line
+third new line
